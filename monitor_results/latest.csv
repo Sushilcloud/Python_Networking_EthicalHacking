@@ -1,0 +1,3 @@
+ip,alive,hostname,http_title,http_server,https_title,https_server,last_seen
+192.168.0.100,True,Geetanjali,,Microsoft-IIS/10.0,,,2025-09-12T21:51:01.227037
+192.168.0.1,True,,Opening...,,,,2025-09-12T21:51:06.154101
